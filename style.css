@@ -1,0 +1,42 @@
+/* Style your website here */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+	font-size: 40;
+}
+
+nav ul {
+    list-style: none;
+}
+
+nav ul li {
+    display: inline;
+    margin: 10px;
+	text-align: center;
+}
+
+.hero {
+    background-image: url('car-wash-image.jpg');
+    background-size: cover;
+    color: #000;
+    text-align: center;
+    padding: 100px;
+}
+.about {
+    background-image: url('car-wash-image.jpg');
+    background-size: cover;
+    color: #000;
+    text-align: center;
+    padding: 100px;
+
+footer {
+	text-align: center;
+}
+
+/* Add more CSS for other sections and pages as needed */
